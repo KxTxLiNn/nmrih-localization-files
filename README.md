@@ -18,4 +18,5 @@ https://partner.steamgames.com/doc/store/localization/languages#supported_langua
 **Spanish**: [@Holycrapjimhox](https://github.com/Holycrapjimhox) \
 **Traditional Chinese**: [@Plazehorta](https://github.com/Plazehorta) \
 **Turkish**: Dragostai
-**Romanian**: @KxTxLiNn
+
+**Romanian**: [@KxTxLiNn](https://github.com/KxTxLiNn) \
